@@ -1,0 +1,67 @@
+.show-details {
+    text-align: center;
+  }
+  
+  .show-details h2 {
+    margin-bottom: 10px;
+    font-size: 24px;
+  }
+  
+  .show-details img {
+    width: 300px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .genres {
+    margin-bottom: 10px;
+    font-style: italic;
+  }
+  
+  .status {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  .summary {
+    margin-top: 10px;
+    text-align: justify;
+  }
+  
+  .booking-form {
+    margin-top: 20px;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .booking-form h3 {
+    margin-bottom: 10px;
+  }
+  
+  .booking-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .booking-form input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .booking-form button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .booking-form button:hover {
+    background-color: #0056b3;
+  }
+  
